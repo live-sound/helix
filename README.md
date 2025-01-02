@@ -11,3 +11,5 @@ Please take note of the various warning, especially where power cables are conce
 The cables will NOT damage audio equipment but failure to take note of the carious warning will result in poor performance.
 
 Happy Diying
+
+(c) Steve Reeve
